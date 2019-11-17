@@ -1,5 +1,5 @@
 # Spam-Message-Filter
-A machine learning based system that is used to predict whether the given message is spam(correct message) or ham(true message).
+A machine learning based system that is used to predict whether the given message is spam(misleading message) or ham(true message).
 ## Table of Contents
 [Introduction](#Introduction)
 [Requirements](#Requirements)
